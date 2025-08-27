@@ -1,0 +1,21 @@
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Data/output files
+*.xlsx
+*.csv
+attachments/
+labeled_invoices/
