@@ -1,9 +1,0 @@
-subject,body,from_domain,reply_domain,attachment_types,amount,label
-"INVOICE 3321 due today","Please wire the funds within 24 hours. Payment details changed.","acme-billing.com","gmail.com",".pdf",1250,1
-"Payment details update","We updated our bank info. Use the new IBAN below.","vendor-true.com","vendor-true.com",".html",800,1
-"Invoice #5567","Attached is your monthly invoice. Thank you.","contoso.com","contoso.com",".pdf",520,0
-"Reminder: Past Due","Your account is past due, settle today.","hotmail.com","hotmail.com",".pdf",300,1
-"Receipt for purchase","Here is your receipt for last month.","store.com","store.com",".pdf",75,0
-"Invoice 987","Please find the invoice attached.","vendor-true.com","vendor-true.com",".pdf",590,0
-"Urgent wire","Send via SWIFT now, we cannot ship otherwise.","fraud-mail.xyz","fraud-mail.xyz",".htm",2300,1
-"Subscription renewal","Auto-renewal notice for your subscription.","services.com","services.com",".pdf",19,0
